@@ -1,0 +1,8 @@
+<strings>
+    <string id="AppName">Booker</string>
+    <string id="fetchingBooks">Loading Books</string>
+    <string id="syncMenuTitle">Choose Books</string>
+    <string id="playbackMenuTitle">Available Books</string>
+    <string id="configureSyncMessage">Configure\nSync</string>
+    <string id="configurePlaybackMessage">Configure\nPlayback</string>
+</strings>
